@@ -147,7 +147,7 @@ render() {
 
 Those strange curly brackets are what tell JSX to interpret the code as JavaScript rather than HTML. It feels weird at first but eventually it will be second nature (especially if you're coming from another templating system like handlebars or ejs).
 
-That image is a bit large, eh? Let's add in a minimal amount of CSS to make it a bit smaller, in yuour App.css file add in this:
+That image is a bit large, eh? Let's add in a minimal amount of CSS to make it a bit smaller, in your App.css file add in this:
 
 ```css
 img {
